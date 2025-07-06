@@ -1,11 +1,11 @@
-### 👋 Hey there! I'm Tuấn Lê Minh
+### 👋 Hey there! I'm Minh Tuan Le (Tuan)
 
-💻 A curious coder, backend enthusiast, and lover of solving puzzles with tech.  
-🎮 I sometimes modify games *just for fun* and break things (then fix them—usually).  
+💻 A curious coder, backend enthusiast, and lover of solving puzzles with tech. BTW it's totally worth it to take 5 days to automate an one-time 2h job in my book! 
+🎮 I sometimes modify games *just for fun* and break things (then fix them - usually).  
 🌏 Based in Australia, currently diving deep into C++, Python, and cloud-y things like AWS.  
 🌊 I also helped lead the charge with Monash DiversIT – where code meets community!  
 
-🧠 Always exploring: algorithms, backend systems, functional programming, or anything weird and wonderful.  
+🧠 Always exploring: algorithms, backend systems, vibe coding, or anything weird and funny.  
 ⚡ Currently building things, learning more, and always looking to improve.
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Let's connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/minh-tuan-le-software-engineer/)  
 - 🧠 I like chatting about tech, open source, and how we can build better stuff together!
 
 Thanks for stopping by – may your code compile on the first try 🚀
