@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Minh Tuan Le (Tuan)
 
-💻 A curious coder, backend enthusiast, and lover of solving puzzles with tech. BTW it's totally worth it to take 5 days to automate an one-time 2h job in my book! 
+💻 A curious coder, backend enthusiast, and lover of solving puzzles with tech. BTW it's totally worth it to take 5 days to automate an one-time 2h job in my book!  
 🎮 I sometimes modify games *just for fun* and break things (then fix them - usually).  
 🌏 Based in Australia, currently diving deep into C++, Python, and cloud-y things like AWS.  
 🌊 I also helped lead the charge with Monash DiversIT – where code meets community!  
